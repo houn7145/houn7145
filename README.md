@@ -1,5 +1,5 @@
  # LINK
- ### 1st PERSONAL PROJECT <a href="https://github.com/houn7145/musteat-1stPersonalProject"><img src="https://img.shields.io/badge/MUST-EAT(맛집 공유 플랫폼)-FF0000?style=for-the-badge&logo=github&logoColor=white"/></a>
+ ### 1st PERSONAL PROJECT <a href="https://github.com/houn7145/musteat-1stPersonalProject"><img src="https://img.shields.io/badge/MUSTEAT(맛집 공유 플랫폼)-FF0000?style=for-the-badge&logo=github&logoColor=white"/></a>
  ### 2nd TEAM PROJECT  <a href="https://github.com/jooooung/jeju-2ndTeamProject"><img src="https://img.shields.io/badge/제주어때?(제주도 여행지 소개 및 홍보 사이트)-009900?style=for-the-badge&logo=github&logoColor=white"/></a>
  ### 공부일지 <a href="https://github.com/houn7145/class"><img src="https://img.shields.io/badge/공부일지-0000FF?style=for-the-badge&logo=github&logoColor=white"/></a>
 
